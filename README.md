@@ -15,7 +15,7 @@ In the following, the purpose of the expected httpc command options is described
 [Please click for more information.](https://github.com/DhwaniSondhi/cURL-like-Command-Line-Implementation/blob/master/Assignment%20Description.pdf)
 
 ### How to run?
-- Install Python 3.6.8.
+- Install Java 8+.
 - Run the command described above.
 
 ### OUTPUTS
