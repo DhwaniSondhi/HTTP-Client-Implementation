@@ -1,5 +1,5 @@
 ## HTTP-Client-Implementation
-This project is to develop a client named httpc that provide the HTTP client library implementation. This library provides a command-line interface like cURL with basic functionalities.
+This project is to develop a client named httpc that provide the HTTP client library implementation based on TCP Protocol. This library provides a command-line interface like cURL with basic functionalities.
 The following presents the options of our final command line:
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>httpc (get|post) [-v] (-h "k:v")* [-d inline-data] [-f file] URL</code>
