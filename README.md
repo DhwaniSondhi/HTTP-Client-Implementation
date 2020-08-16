@@ -1,4 +1,4 @@
-## cURL-like-Command-Line-Implementation
+## HTTP-Client-Implementation
 This project is to develop a client named httpc that provide the HTTP client library implementation. This library provides a command-line interface like cURL with basic functionalities.
 The following presents the options of our final command line:
 
