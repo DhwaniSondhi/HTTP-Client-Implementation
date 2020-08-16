@@ -18,7 +18,7 @@ In the following, the purpose of the expected httpc command options is described
 - Install Java 8+.
 - Run the command described above.
 
-### OUTPUTS
+### OUTPUT
 ***Get with query parameters***<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;httpc get 'http://httpbin.org/get?course=networking&assignment=1'<br/>
 ***Output:***<br/>
